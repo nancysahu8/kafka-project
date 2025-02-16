@@ -116,6 +116,7 @@ Copy
 
 
 Troubleshooting
+
 Ensure that Kafka is running and reachable on the configured bootstrap-servers.
 Check if the topics exist. If not, create them manually or configure auto-creation in Kafka.
 Ensure the correct group-id and auto-offset-reset settings for consumers.
@@ -123,6 +124,7 @@ Contributing
 If you want to contribute to this project, please fork it and create a pull request with your changes.
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Let me know if you need any modifications or additional sections!
